@@ -1,4 +1,4 @@
-This respository contains an MVP ETL built for the purpose of parsing query params in url, organizing the result values, and pushing the data into a Snowflake data warehouse
+This respository contains an MVP ETL built for the purpose of parsing query params in url, organizing the resulting data, and pushing the data into a Snowflake data warehouse
 
 Steps:
 - SQL query to pull onelink urls from Snowflake warehouse
